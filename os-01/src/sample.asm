@@ -1,6 +1,6 @@
 ;******************************
 ; sample.asm
-; A sample program
+; A sample kernel program
 ;******************************
 
 mov eax, 3
