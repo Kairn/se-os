@@ -5,6 +5,7 @@ This is a sample OS/bootloader for demonstration purpose only, adopted from the 
 ## Prerequisites
 * Unix based environment (Tested in Ubuntu 20.04 & 22.04)
 * `gcc-multilib` for compiling in 32-bit mode
+* [`nasm`](https://www.nasm.us/)
 * [QEMU](https://www.qemu.org/)
 
 ## Build and Run
